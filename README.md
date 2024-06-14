@@ -2,4 +2,4 @@
 
 - Bug fixed
 
-- Hot fixed
+- Not Hot fixed
