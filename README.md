@@ -2,6 +2,6 @@
 
 - Bug fixed
 
-- Hot fixed
+- Conflics : Hot fixed
 
 - I not Feature added
